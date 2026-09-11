@@ -73,4 +73,4 @@ The model is finally tested using live vibration data from the ESP32 and physica
 
 * **To understand the machine learning model and its evaluation:** start with `MODEL.ipynb`.
 * **To run the complete real-time pipeline:** run the `predictive-maintenance-dashboard` project.
-* The Project Report explains the complete Project in detail from start till end.
+* The Project Report explains the complete Project in detail from start till end (with images & results).
